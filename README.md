@@ -7,6 +7,8 @@ This project uses MediaPipe for hand and face detection, which gives really accu
 When you're not showing your hands or face to the camera, the program switches to object recognition mode using a neural network trained on thousands of everyday items. It'll tell you what it sees with confidence percentages.
 
 ## What it does
+<img width="836" height="660" alt="image" src="https://github.com/user-attachments/assets/1da2da7c-0369-425d-a255-90f35b579cdb" />
+
 
 - Tracks up to 2 hands with landmarks and bounding boxes
 - Detects faces and draws boxes around them
