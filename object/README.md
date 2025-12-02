@@ -6,6 +6,10 @@ This project uses MediaPipe for hand and face detection, which gives really accu
 
 When you're not showing your hands or face to the camera, the program switches to object recognition mode using a neural network trained on thousands of everyday items. It'll tell you what it sees with confidence percentages.
 
+# Example
+<img width="901" height="682" alt="image" src="https://github.com/user-attachments/assets/f142b0e2-b0fc-41e8-bdc0-6d28a3f9bc7c" />
+
+
 ## What it does
 
 - Tracks up to 2 hands with landmarks and bounding boxes
@@ -38,3 +42,4 @@ Press ESC to quit.
 - `--smooth 0.3` - Smoothing for bounding boxes (lower = smoother)
 
 That's it! Just point your camera and see what it detects.
+
